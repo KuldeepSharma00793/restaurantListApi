@@ -1,7 +1,6 @@
 [
     {
-       data:
-       { 
+       data: { 
         name : "KFC",
         id : 1,
         Cuisines : ["Burgers", "Biryani", "American"],

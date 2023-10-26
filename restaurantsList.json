@@ -1,4 +1,4 @@
-
+[
     {
        data: { 
         name : "KFC",
@@ -118,3 +118,4 @@
          deliveryTime : 36
      }
      }
+]
